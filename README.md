@@ -16,11 +16,11 @@ Create a visually appealing application that allows users to search for movies a
 
 ## Requirements
 
-- [ ] Start by researching and exploring an API such as [OMDb](https://www.omdbapi.com/), studying its documentation to understand what data it returns, and configuring it with your API key.
+- [ ] Start by researching and exploring an API such as [OMDb](https://www.omdbapi.com/), studying its documentation to understand what data it returns, and configuring it with your API key. Use images from the API for rendering movie and series posters.
 - [ ] Add a movies search bar with debouncing, loading, and empty states for search results to the navigation, along with a logo, showing around 5 results.
-- [ ] Create a "Featured Today" section on the homepage, with tabs for Movies and Series, displaying around 20 random movies and series. Implement infinity scroll left and right functionality for viewing more.
-- [ ] Implement a "Premieres and announcements" section on the homepage, similar to "Featured Today" but filtered by year (e.g. 2023) and without tabs.
-- [ ] When a user clicks on a movie or TV series, open the details page in a separate URL, allowing for refreshing and separate browsing.
+- [ ] Create a "Featured Today" section on the homepage, with tabs for Movies and Series, displaying around 20 random movies and series. Add infinity scroll left and right functionality for browsing through titles.
+- [ ] Implement a "Premieres and announcements" section on the homepage, similar to "Featured Today" but filtered by year (e.g. 2023) and without tabs. Add infinity scroll left and right functionality for browsing through titles.
+- [ ] When a user clicks on a movie or series, open the details page in a separate URL, allowing for refreshing and separate browsing.
 - [ ] Add skeleton animation loading to both pages for a better user experience.
 - [ ] Handle API request failures by showing only the navigation and error boundary page.
 
