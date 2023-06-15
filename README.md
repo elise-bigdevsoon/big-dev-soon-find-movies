@@ -2,13 +2,13 @@
 
 Hello to [BigDevSoon](https://bigdevsoon.me/) 👋
 
-Create a visually appealing application that allows users to search for movies and TV series by title and view their details. Challenge yourself to incorporate a "Featured Today" and a "Premieres and announcements" section. Integration with a third-party API adds an extra level of complexity to the project.
+Create an application that allows users to search for movies and TV series.
 
 ## How to start
 
-1. Start the project in our [app](https://app.bigdevsoon.me/) to get a feel for it.
+1. Start the project in our [app](https://app.bigdevsoon.me/projects/find-movies) to get a feel for it.
 2. Review the requirements listed below in this README.
-3. Go through the design images on the [project's page](https://app.bigdevsoon.me/projects/find-movies) and import the `.fig` file into Figma to understand the layout and design elements.
+3. Go through the design assets on the [project's page](https://app.bigdevsoon.me/projects/find-movies) to understand the project more.
 4. Clone this repository or use [GitHub Codespaces](https://github.com/features/codespaces) to set up the project environment.
 5. Choose your preferred technology stack and overwrite repository files as needed to set up your project structure. We included a few files and the `assets` folder for convenience, extracted from the design.
 6. Begin coding, either using the Freerun mode to work on each card individually or the Speedrun mode to work at your own pace. Be sure to follow the guidelines outlined below.
