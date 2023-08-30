@@ -2,7 +2,7 @@
 
 Application that allows users to search for movies and TV series.
 
-![Find Movies Project preview image](./project-preview.png)
+![Find Movies Project preview image](https://github.com/elise-bigdevsoon/big-dev-soon-find-movies/blob/main/project-preview.png)
 
 ## Hello to [BigDevSoon](https://bigdevsoon.me/) 👋
 
